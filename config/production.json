@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "djalil learn mern",
+    "mongoUri": "mongodb+srv://djalil:Sssuper10@cluster0.mmkf7.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
